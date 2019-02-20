@@ -1,5 +1,5 @@
 Downloaded SWI Prolog from: http://www.swi-prolog.org/download/stable, which enables Prolog development from command line.
 
-Next need to find suitable development environment. Option:
+Next need to find suitable development environment. Options:
 1. Development in Atom, run from command line
 2. Prolog IDE
